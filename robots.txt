@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://muctiga.github.io/sitemap.html.gz
+Sitemap: https://muctiga.github.io/app/sitemap.html.gz
+Sitemap: https://muctiga.github.io/assets/sitemap.html.gz
+Sitemap: https://muctiga.github.io/css/sitemap.html.gz
+Sitemap: https://muctiga.github.io/data/sitemap.html.gz
+Sitemap: https://muctiga.github.io/includes/sitemap.html.gz
+Sitemap: https://muctiga.github.io/item/sitemap.html.gz
+Sitemap: https://muctiga.github.io/src/sitemap.html.gz
